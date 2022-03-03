@@ -123,9 +123,9 @@ Problem was known for a long time
 
 ---
 
-# Breakdown in Incentives
+# 
 
-.center[![:scale 60%](imgs/fig_1.png)]
+.center[![:scale 80%](imgs/fig_1.png)]
 
 .right[[Ovando *et al*. (2020)](https://www.journals.uchicago.edu/doi/10.1086/711853)]
 ---
@@ -171,11 +171,11 @@ Problem was known for a long time
 ---
 
 
-# Solutions
+# 
 
-.center[![:scale 55%](imgs/fig_4.png)]
+.center[![:scale 70%](imgs/fig_4.png)]
 
-.right[[Ovando *et al*. (2020)](https://www.journals.uchicago.edu/doi/10.1086/711853)]
+.left[[Ovando *et al*. (2020)](https://www.journals.uchicago.edu/doi/10.1086/711853)]
 
 ---
 
@@ -291,12 +291,7 @@ include_url("https://danovando.github.io/marlin/")
 
 ---
 
-# Optimizing Spatial Policies
 
-.center[![](imgs/opt-demo.png)]
-
-
----
 
 # Future Directions
 
@@ -472,5 +467,10 @@ knitr::include_graphics(file.path(img_path,"bio_anim.gif"))
 
 ---
 
+# Optimizing Spatial Policies
 
+.center[![](imgs/opt-demo.png)]
+
+
+---
 
