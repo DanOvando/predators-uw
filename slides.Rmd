@@ -1,5 +1,5 @@
 ---
-title: "Assesing and Managing <br> Large Marine Predators"
+title: "Assesing and Managing <br> Top Marine Predators"
 author: "Dan Ovando"
 institute: "University of Washington"
 date: "2022/03/03"
@@ -65,7 +65,7 @@ class: center, middle, inverse
 
 ---
 
-# Large Marine Predator Research
+# Top Marine Predator Research
 
 .pull-left[
 
@@ -313,7 +313,7 @@ include_url("https://danovando.github.io/marlin/")
   - Effects of spatial policies
   - Tradeoffs between top predator conservation and fisheries
 
-.center[**Developing solutions for managing large marine predators**]
+.center[**Developing solutions for managing top marine predators**]
 
 ].pull-right[
 
@@ -379,7 +379,7 @@ I believe in **active** and **applied** learning
 
 - Support for **capacity building**
 
-.center[**Collaborating with affected communities to fund and conduct research on conservation and management of large marine predators**]
+.center[**Collaborating with affected communities to fund and conduct research on conservation and management of top marine predators**]
 
 ???
 National Catch Share Program and Magnuson-Stevens Act Implementation
