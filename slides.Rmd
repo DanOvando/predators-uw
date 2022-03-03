@@ -1,5 +1,5 @@
 ---
-title: "Assesing and Managing <br> Top Marine Predators"
+title: "Assessing and Managing <br> Top Marine Predators"
 author: "Dan Ovando"
 institute: "University of Washington"
 date: "2022/03/03"
@@ -36,7 +36,7 @@ options(htmltools.dir.version = FALSE)
 img_path <- here('imgs')
 ```
 
-# A Quantiative Fisheries Ecologist
+# A Quantitative Fisheries Ecologist
 
 
 > I use methods and ideas from ecology and economics to help understand and manage social-ecological systems. 
