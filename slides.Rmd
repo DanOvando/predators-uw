@@ -258,11 +258,10 @@ One strategy:
   
   - Lower fishery costs
 
-The challenge:
-  -  Predicting dynamics complicated
-  
-Solution: 
-  - A flexible m
+The challenge... 
+  - Incorporating dynamics of fish and fleets
+  - Dynamic planning given imperfect information
+  - Causal inference of spatial policies
 
 ].pull-right[
 .center[![](imgs/pons.png)]
@@ -308,25 +307,23 @@ include_url("https://danovando.github.io/marlin/")
 ---
 
 
-
-
 # Effects of Spatial Policies
 
 
-![](imgs/fig_info.png)
+.center[![](imgs/fig_info.png)]
 
 ---
 
-# When do Things Go Wrong?
+# When Do Things Go Wrong?
 
-![](imgs/marlin-demo.png)
+.center[![](imgs/marlin-demo.png)]
 
 
 ---
 
 # Optimizing Spatial Policies
 
-![](imgs/opt-demp.png)
+.center[![](imgs/opt-demo.png)]
 
 
 ---
@@ -359,16 +356,35 @@ include_url("https://danovando.github.io/marlin/")
 
 # Teaching & Mentorship
 
+Teaching is a core reason I want to be part of the UW
+
+  - Revitalizing "Super advanced R"
+  
+  - Seeking out opportunity to teach FSH 323
+  
+I believe in **active** and **applied** learning
+  
+  - Fundamentals of open and reproducible science
+  
+  - Experience with real-world problem solving
+  
+  - Preparing students for careers in and out of Academia
+
+<br>
+.center[**Faculty have a responsibility to create <br> a welcoming and supportive community**]
 
 ---
 
 # Funding Strategy
 
 ### Strong record of extramural funding
+ 
   - Doris Duke Conservation Fellow
+  
   - NOAA Sea Grant Population and Ecosystem Dynamics Fellow
 
 ### Current Funding
+  
   - Saltonstall-Kennedy Grant: Increasing U.S. Seafood Production through Effective Conservation of Bycatch Species
   
   - Food and Agriculture Organization of the United Nations
@@ -379,24 +395,30 @@ include_url("https://danovando.github.io/marlin/")
 
 # Funding Strategy
 
-- Focus on applied management bodies
+- Focus on collaborations with management bodies
   - NOAA
   - RFMOs
-  - 
 
-- Capacity Building
+- Demonstrated interest and ability to obtain support for capacity building
 
-- NGOs
+- NGOs & Foundations
+  - Current funding and collaboration with TNC
+  - Prior work with Waitt, Walton, Packard, Moore
 
 - Industry
   - Fishing sector has incentive to support effective management
   - Tech sector untapped resource supporting big data and computation
-    - Build off of Global Fishing Watch partnership
 
+.center[**Collaborating with affected communities to fund and conduct research on conservation and management of large marine predators**]
+
+???
+National Catch Share Program and Magnuson-Stevens Act Implementation
+
+North Pacific Research Board - focus on marine mammals, salmon in Alaska, salmon sharks
+
+Build off of Global Fishing Watch partnership
 
 ---
-
-
 
 
 # Thank You!
@@ -404,7 +426,9 @@ include_url("https://danovando.github.io/marlin/")
 .pull-left[
 Questions?
 
-slides: [https://danovando.github.io/davis-seminar/slides](https://danovando.github.io/davis-seminar/slides)
+slides: 
+
+.small[[danovando.github.io/predators-uw/slides](https://danovando.github.io/predators-uw/slides)]
 
 email: danovan@uw.edu
 
@@ -416,7 +440,7 @@ website: [danovando.com](https://www.weirdfishes.blog/)
 
 ].pull-right[
 
-.center[![:scale 80%](imgs/IMG_1679.JPG)]
+.center[![:scale 90%](imgs/IMG_1679.JPG)]
 
 
 ]
