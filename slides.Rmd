@@ -47,11 +47,13 @@ I study...
   - Social-ecological impacts of policies
   - Predictive modeling
   
-Using ...
+Using...
   - Bayesian methods
   - Econometrics
   - Simulation modeling
-  - Open and reproducible data science
+
+Based on...
+  - Open and reproducible science
   - Collaboration
 
 
@@ -146,20 +148,16 @@ Problem was known for a long time
 
 # A Coasean Bargain
 
-* Is regulation the only solution?
-    
-    * Resistance will be strong
-    * Enforcement costs high
-
 * Coase suggests an alternative solution
     * Markets allow costs and benefits to align
     * "Beneficiary pays" rather than "polluter pays"
 
-* Can benefits of bigeye conservation outweigh costs?
 
-  - Purse seine BET rate is low in aggregate
-  - Hot-spots in space and time
-  
+<br>
+<br>
+<br>
+<br>
+
 .center[**What if bigeye tuna interests subsidized <br> FAD-free days in bigeye hotspots?**]
 
 ---
@@ -237,12 +235,10 @@ class: center, middle, inverse
 
 - Growing call for MPAs to manage marine populations
 
-- Effectiveness of MPAs for top marine predators complicated by
-
-  - High movement
-  - Dynamic habitats
-  - Human responses
-
+<br>
+<br>
+<br>
+<br>
 .center[**How do we manage top marine predators in a dynamic ocean?**]
 
 ---
@@ -266,32 +262,6 @@ The challenge...
 ].pull-right[
 .center[![](imgs/pons.png)]
 ]
-
----
-
-# MPAs and Marine Predators
-
-.pull-left[
-
-Critical dynamics to consider
-
-- Marine species move
-
-- Heterogeneous and dynamic habitat
-
-- Fishing fleets respond
-
-**How do these dynamics affect performance of static and dynamic MPAs**?
-
-].pull-right[
-
-```{r, out.width="100%", fig.align="center", eval = TRUE}
-knitr::include_graphics(file.path(img_path,"bio_anim.gif"))
-```
-
-
-]
-
 
 ---
 
@@ -385,7 +355,7 @@ I believe in **active** and **applied** learning
 
 ### Current Funding
   
-  - Saltonstall-Kennedy Grant: Increasing U.S. Seafood Production through Effective Conservation of Bycatch Species
+  - NOAA Saltonstall-Kennedy Grant: Increasing U.S. Seafood Production through Effective Conservation of Bycatch Species
   
   - Food and Agriculture Organization of the United Nations
   
@@ -399,8 +369,6 @@ I believe in **active** and **applied** learning
   - NOAA
   - RFMOs
 
-- Demonstrated interest and ability to obtain support for capacity building
-
 - NGOs & Foundations
   - Current funding and collaboration with TNC
   - Prior work with Waitt, Walton, Packard, Moore
@@ -408,6 +376,8 @@ I believe in **active** and **applied** learning
 - Industry
   - Fishing sector has incentive to support effective management
   - Tech sector untapped resource supporting big data and computation
+
+- Support for **capacity building**
 
 .center[**Collaborating with affected communities to fund and conduct research on conservation and management of large marine predators**]
 
@@ -417,6 +387,8 @@ National Catch Share Program and Magnuson-Stevens Act Implementation
 North Pacific Research Board - focus on marine mammals, salmon in Alaska, salmon sharks
 
 Build off of Global Fishing Watch partnership
+
+https://www.fisheries.noaa.gov/alaska/ecosystems/shark-research-alaska
 
 ---
 
@@ -448,6 +420,57 @@ website: [danovando.com](https://www.weirdfishes.blog/)
 
 ---
 
+class: center, middle, inverse
+# Extras
+
+
+---
+
+# A Coasean Bargain
+
+* Is regulation the only solution?
+    
+    * Resistance will be strong
+    * Enforcement costs high
+
+* Coase suggests an alternative solution
+    * Markets allow costs and benefits to align
+    * "Beneficiary pays" rather than "polluter pays"
+
+* Can benefits of bigeye conservation outweigh costs?
+
+  - Purse seine BET rate is low in aggregate
+  - Hot-spots in space and time
+  
+.center[**What if bigeye tuna interests subsidized <br> FAD-free days in bigeye hotspots?**]
+
+---
+
+# MPAs and Marine Predators
+
+.pull-left[
+
+Critical dynamics to consider
+
+- Marine species move
+
+- Heterogeneous and dynamic habitat
+
+- Fishing fleets respond
+
+**How do these dynamics affect performance of static and dynamic MPAs**?
+
+].pull-right[
+
+```{r, out.width="100%", fig.align="center", eval = TRUE}
+knitr::include_graphics(file.path(img_path,"bio_anim.gif"))
+```
+
+
+]
+
+
+---
 
 
 
